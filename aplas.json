@@ -9,14 +9,13 @@
       "description": "Team-oriented systemic customer loyalty",
       "categoryId": "core",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "249",
       "vendor_phone": "+86 414 933 8024",
       "status_color": "#00FF00",
       "department": "Research and Development",
       "hostedtype": "OnPremise",
       "deployment_date": "12/11/06",
-      "investment_number": "423",
+      "investment_number": 423,
       "type": "OffShelf",
       "sme_email": "Hogan.Clemendet@memento.net.au",
       "investment_24m": "765",
@@ -25,11 +24,11 @@
       "support_cost": "93",
       "vendor_contact_name": "Norby Bottrill",
       "end_of_life": "22/3/18",
-      "months_to_renew_support": "15",
+      "months_to_renew_support": 15,
       "end_of_maintenance": "2/7/17",
       "integrations": [
         {
-          "assetId": "int-267",
+          "id": "int-267",
           "name": "INT-267",
           "shortName": null,
           "version": "6.6",
@@ -37,7 +36,6 @@
           "payload": "Product Data Migration",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -50,7 +48,7 @@
           "golive_date": "14/7/14"
         },
         {
-          "assetId": "int-296",
+          "id": "int-296",
           "name": "INT-296",
           "shortName": null,
           "version": "0.8.7",
@@ -58,7 +56,6 @@
           "payload": "CustomerId",
           "targetApplicationId": "content_cloud",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#00FF00",
           "department": "App Control",
@@ -71,7 +68,7 @@
           "golive_date": "30/10/04"
         },
         {
-          "assetId": "int-111",
+          "id": "int-111",
           "name": "INT-111",
           "shortName": null,
           "version": "7.33",
@@ -79,7 +76,6 @@
           "payload": "CnCNotification",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hildegaard Tollit",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -92,7 +88,7 @@
           "golive_date": "25/5/03"
         },
         {
-          "assetId": "int-342",
+          "id": "int-342",
           "name": "INT-342",
           "shortName": null,
           "version": "3.6",
@@ -100,7 +96,6 @@
           "payload": "Financial Closing Stock Company Unknown Shrink",
           "targetApplicationId": "seemless",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Matelda Nuss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -113,7 +108,7 @@
           "golive_date": "29/3/06"
         },
         {
-          "assetId": "int-249",
+          "id": "int-249",
           "name": "INT-249",
           "shortName": null,
           "version": "2.7.5",
@@ -121,7 +116,6 @@
           "payload": "Sales - Books",
           "targetApplicationId": "social_innovation",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Gabriel Van Hault",
           "decom_date": "14/4/15",
           "status_color": "#FF0000",
@@ -135,7 +129,7 @@
           "golive_date": "3/3/09"
         },
         {
-          "assetId": "int-471",
+          "id": "int-471",
           "name": "INT-471",
           "shortName": null,
           "version": "5.76",
@@ -143,7 +137,6 @@
           "payload": "ASN",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "decom_date": "4/9/17",
           "status_color": "#FF0000",
@@ -157,7 +150,7 @@
           "golive_date": "23/4/14"
         },
         {
-          "assetId": "int-211",
+          "id": "int-211",
           "name": "INT-211",
           "shortName": null,
           "version": "7.8",
@@ -165,7 +158,6 @@
           "payload": "Sales (Store Sales / Flybuys)",
           "targetApplicationId": "talent_fruit",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -178,7 +170,7 @@
           "golive_date": "21/8/14"
         },
         {
-          "assetId": "int-120",
+          "id": "int-120",
           "name": "INT-120",
           "shortName": null,
           "version": "7.24",
@@ -186,7 +178,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "social_innovation",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -199,7 +190,7 @@
           "golive_date": "25/12/11"
         },
         {
-          "assetId": "int-463",
+          "id": "int-463",
           "name": "INT-463",
           "shortName": null,
           "version": "0.6",
@@ -207,7 +198,6 @@
           "payload": "Pack Size",
           "targetApplicationId": "best_cloud",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Ramsey Tindle",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -220,7 +210,7 @@
           "golive_date": "11/10/11"
         },
         {
-          "assetId": "int-243",
+          "id": "int-243",
           "name": "INT-243",
           "shortName": null,
           "version": "0.3.8",
@@ -228,7 +218,6 @@
           "payload": "Invoice  ",
           "targetApplicationId": "b2b_saas",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -241,7 +230,7 @@
           "golive_date": "22/2/02"
         },
         {
-          "assetId": "int-064",
+          "id": "int-064",
           "name": "INT-064",
           "shortName": null,
           "version": "8.2.5",
@@ -249,7 +238,6 @@
           "payload": "ASN Verify Transactional Data",
           "targetApplicationId": "reverse_web_design",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Jessa Boncore",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -262,7 +250,7 @@
           "golive_date": "3/2/10"
         },
         {
-          "assetId": "int-024",
+          "id": "int-024",
           "name": "INT-024",
           "shortName": null,
           "version": "4",
@@ -270,7 +258,6 @@
           "payload": "Distribution Store Order Transactional Data",
           "targetApplicationId": "drill_mobile",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Flem Mungan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -283,7 +270,7 @@
           "golive_date": "26/12/08"
         },
         {
-          "assetId": "int-293",
+          "id": "int-293",
           "name": "INT-293",
           "shortName": null,
           "version": "0.6.7",
@@ -291,7 +278,6 @@
           "payload": "Product Hierarchy ",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Myranda McChruiter",
           "decom_date": "3/12/14",
           "status_color": "#FF0000",
@@ -305,7 +291,7 @@
           "golive_date": "13/6/07"
         },
         {
-          "assetId": "int-480",
+          "id": "int-480",
           "name": "INT-480",
           "shortName": null,
           "version": "8.1",
@@ -313,7 +299,6 @@
           "payload": "Future Movement - ASN Descrepancy",
           "targetApplicationId": "tres-zap",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Adelice Passby",
           "decom_date": "11/4/16",
           "status_color": "#00FFFF",
@@ -327,7 +312,7 @@
           "golive_date": "3/1/14"
         },
         {
-          "assetId": "int-158",
+          "id": "int-158",
           "name": "INT-158",
           "shortName": null,
           "version": "0.4",
@@ -335,7 +320,6 @@
           "payload": "Transfer - Stock Transfer",
           "targetApplicationId": "fulfilment_science",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -348,7 +332,7 @@
           "golive_date": "17/5/08"
         },
         {
-          "assetId": "int-455",
+          "id": "int-455",
           "name": "INT-455",
           "shortName": null,
           "version": "2.7",
@@ -356,7 +340,6 @@
           "payload": "Inventory Adjustment Transactional Data",
           "targetApplicationId": "social_innovation",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Guenna Kix",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -369,7 +352,7 @@
           "golive_date": "19/4/06"
         },
         {
-          "assetId": "int-146",
+          "id": "int-146",
           "name": "INT-146",
           "shortName": null,
           "version": "0.79",
@@ -377,7 +360,6 @@
           "payload": "Shipment (Outbound ASN) Transactional Data",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gilberto Thompkins",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -390,7 +372,7 @@
           "golive_date": "8/5/06"
         },
         {
-          "assetId": "int-251",
+          "id": "int-251",
           "name": "INT-251",
           "shortName": null,
           "version": "5.3.5",
@@ -398,7 +380,6 @@
           "payload": "Sales (Actuals)",
           "targetApplicationId": "visibility_engine",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Adelice Passby",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -411,7 +392,7 @@
           "golive_date": "10/1/15"
         },
         {
-          "assetId": "int-099",
+          "id": "int-099",
           "name": "INT-099",
           "shortName": null,
           "version": "0.83",
@@ -419,7 +400,6 @@
           "payload": "CnCNotification",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Myranda McChruiter",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -432,7 +412,7 @@
           "golive_date": "21/5/11"
         },
         {
-          "assetId": "int-409",
+          "id": "int-409",
           "name": "INT-409",
           "shortName": null,
           "version": "1.8",
@@ -440,7 +420,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "make_e-learning",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Roland Elijah",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -453,7 +432,7 @@
           "golive_date": "10/7/17"
         },
         {
-          "assetId": "int-376",
+          "id": "int-376",
           "name": "INT-376",
           "shortName": null,
           "version": "2.27",
@@ -461,7 +440,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "social_innovation",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Hildegaard Tollit",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -474,7 +452,7 @@
           "golive_date": "15/3/11"
         },
         {
-          "assetId": "int-323",
+          "id": "int-323",
           "name": "INT-323",
           "shortName": null,
           "version": "1.9",
@@ -482,7 +460,6 @@
           "payload": "Product Attribute Group",
           "targetApplicationId": "drill_mobile",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -495,7 +472,7 @@
           "golive_date": "21/8/08"
         },
         {
-          "assetId": "int-418",
+          "id": "int-418",
           "name": "INT-418",
           "shortName": null,
           "version": "0.56",
@@ -503,7 +480,6 @@
           "payload": "Donations",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Preston Shortland",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -516,7 +492,7 @@
           "golive_date": "28/2/11"
         },
         {
-          "assetId": "int-179",
+          "id": "int-179",
           "name": "INT-179",
           "shortName": null,
           "version": "0.2.7",
@@ -524,7 +500,6 @@
           "payload": "Receipt - Adjustments",
           "targetApplicationId": "rightshoring_weblog",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gilberto Thompkins",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -537,7 +512,7 @@
           "golive_date": "11/5/05"
         },
         {
-          "assetId": "int-152",
+          "id": "int-152",
           "name": "INT-152",
           "shortName": null,
           "version": "2",
@@ -545,7 +520,6 @@
           "payload": "Layby DRP copy",
           "targetApplicationId": "bizmeth",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gerri Gwyllt",
           "decom_date": "4/5/16",
           "status_color": "#FF0000",
@@ -559,7 +533,7 @@
           "golive_date": "5/5/14"
         },
         {
-          "assetId": "int-253",
+          "id": "int-253",
           "name": "INT-253",
           "shortName": null,
           "version": "3.5.2",
@@ -567,7 +541,6 @@
           "payload": "Order Data Refresh",
           "targetApplicationId": "solarbreeze",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -580,7 +553,7 @@
           "golive_date": "4/9/10"
         },
         {
-          "assetId": "int-116",
+          "id": "int-116",
           "name": "INT-116",
           "shortName": null,
           "version": "0.5.7",
@@ -588,7 +561,6 @@
           "payload": "Customer",
           "targetApplicationId": "polarflex",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Roland Elijah",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -601,7 +573,7 @@
           "golive_date": "1/2/15"
         },
         {
-          "assetId": "int-086",
+          "id": "int-086",
           "name": "INT-086",
           "shortName": null,
           "version": "2.29",
@@ -609,7 +581,6 @@
           "payload": "Plan (Open to Buy)",
           "targetApplicationId": "veribet",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gabriel Van Hault",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -622,7 +593,7 @@
           "golive_date": "2/8/12"
         },
         {
-          "assetId": "int-451",
+          "id": "int-451",
           "name": "INT-451",
           "shortName": null,
           "version": "0.4.9",
@@ -630,7 +601,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "pannier",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -643,7 +613,7 @@
           "golive_date": "5/6/02"
         },
         {
-          "assetId": "int-317",
+          "id": "int-317",
           "name": "INT-317",
           "shortName": null,
           "version": "3.3",
@@ -651,7 +621,6 @@
           "payload": "FlybuysPoints",
           "targetApplicationId": "social_innovation",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Hildegaard Tollit",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -664,7 +633,7 @@
           "golive_date": "5/11/16"
         },
         {
-          "assetId": "int-040",
+          "id": "int-040",
           "name": "INT-040",
           "shortName": null,
           "version": "3",
@@ -672,7 +641,6 @@
           "payload": "Colour",
           "targetApplicationId": "social_innovation",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -685,7 +653,7 @@
           "golive_date": "12/7/10"
         },
         {
-          "assetId": "int-458",
+          "id": "int-458",
           "name": "INT-458",
           "shortName": null,
           "version": "7.93",
@@ -693,7 +661,6 @@
           "payload": "Product Information",
           "targetApplicationId": "offshoring_deep_web",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Adelice Passby",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -706,7 +673,7 @@
           "golive_date": "22/12/09"
         },
         {
-          "assetId": "int-132",
+          "id": "int-132",
           "name": "INT-132",
           "shortName": null,
           "version": "5.96",
@@ -714,7 +681,6 @@
           "payload": "Maximums ",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -727,7 +693,7 @@
           "golive_date": "24/7/09"
         },
         {
-          "assetId": "int-127",
+          "id": "int-127",
           "name": "INT-127",
           "shortName": null,
           "version": "0.2.9",
@@ -735,7 +701,6 @@
           "payload": "Ledger Account",
           "targetApplicationId": "sensorbyte",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -748,7 +713,7 @@
           "golive_date": "9/9/17"
         },
         {
-          "assetId": "int-297",
+          "id": "int-297",
           "name": "INT-297",
           "shortName": null,
           "version": "1.98",
@@ -756,7 +721,6 @@
           "payload": "Purchase Order Transactional Data",
           "targetApplicationId": "cookley",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Gilberto Thompkins",
           "decom_date": "28/10/13",
           "status_color": "#00FFFF",
@@ -770,7 +734,7 @@
           "golive_date": "14/3/02"
         },
         {
-          "assetId": "int-384",
+          "id": "int-384",
           "name": "INT-384",
           "shortName": null,
           "version": "4.7",
@@ -778,7 +742,6 @@
           "payload": "Document - RCTI PDF",
           "targetApplicationId": "tempsoft",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Roland Elijah",
           "status_color": "#00FF00",
           "department": "System Control",
