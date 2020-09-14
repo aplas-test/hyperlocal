@@ -752,6 +752,26 @@
           "datacentre": "Asia Pacific (Sydney)",
           "last_deployment_date": "7/9/16",
           "pattern": "Enrichment"
+        },
+        {
+          "id": "int-900",
+          "name": "INT-900",
+          "version": "7.24",
+          "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",
+          "payload": "Allocation Distribution",
+          "targetApplicationId": "next_innovation",
+          "categoryId": "ftp",
+          "status": "Standard",
+          "status_color": "#00FF00",
+          "department": "System Control",
+          "sme_email": "gtrevaskissk@memento.net.au",
+          "sme_name": "Gualterio Trevaskiss",
+          "complexity": "Medium",
+          "logical_server": "CLOUD-B2B",
+          "golive_date": "25/12/11",
+          "datacentre": "Asia Pacific (Sydney)",
+          "last_deployment_date": "7/9/16",
+          "pattern": "Enrichment"
         }
       ]
     }
