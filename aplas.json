@@ -55,25 +55,25 @@
       "support_cost": "93",
       "integrations": [
         {
-          "id": "int-991",
-          "name": "INT-991",
-          "version": "2.30",
-          "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
-          "payload": "Plan (Open to Buy)",
-          "targetApplicationId": "veribet",
-          "categoryId": "webmethods",
+          "id": "int-996",
+          "name": "INT-996",
+          "version": "4.7",
+          "description": "Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.",
+          "payload": "Document - RCTI PDF",
+          "targetApplicationId": "tempsoft",
+          "categoryId": "ftp",
           "status": "Standard",
           "status_color": "#00FF00",
-          "department": "Integration",
-          "sme_email": "gvanc@memento.net.au",
-          "sme_name": "Gabriel Van Hault",
-          "complexity": "Low",
+          "department": "System Control",
+          "sme_email": "relijahe@memento.net.au",
+          "sme_name": "Roland Elijah",
+          "complexity": "Medium",
           "logical_server": "LEG",
-          "golive_date": "2/8/12",
-          "datacentre": "Dandenong",
-          "last_deployment_date": "17/8/17",
-          "pattern": "File Delivery"
-        }
+          "golive_date": "10/11/16",
+          "datacentre": "Altona",
+          "last_deployment_date": "1/3/16",
+          "pattern": "Aggregator"
+        },
       ]
     },
     {
