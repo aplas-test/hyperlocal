@@ -2,8 +2,8 @@
   "applications": [
     {
       "id": "hyperlocal",
-      "name": "Hyperlocal 3",
-      "version": "7.5",
+      "name": "Hyperlocal",
+      "version": "7.6",
       "vendor": "ServiceNow",
       "description": "Team-oriented systemic customer loyalty",
       "categoryId": "core",
