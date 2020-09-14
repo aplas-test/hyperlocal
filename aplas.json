@@ -1,6 +1,33 @@
 {
   "applications": [
     {
+      "id": "hyperlocal3",
+      "name": "Hyperlocal 3",
+      "version": "7.6",
+      "vendor": "ServiceNow",
+      "description": "Team-oriented systemic customer loyalty",
+      "categoryId": "core",
+      "applicationSize": "Small",
+      "status": "Standard",
+      "status_color": "#00FF00",
+      "department": "Research and Development",
+      "investment_number": 423,
+      "licensing_cost": "249",
+      "sme_email": "Hogan.Clemendet@memento.net.au",
+      "hostedtype": "OnPremise",
+      "vendor_phone": "+86 414 933 8024",
+      "vendor_email": "Norby.Bottrill@ServiceNow.com",
+      "end_of_maintenance": "2/7/17",
+      "investment_24m": "765",
+      "months_to_renew_support": 15,
+      "deployment_date": "12/11/06",
+      "end_of_life": "22/3/18",
+      "type": "OffShelf",
+      "vendor_contact_name": "Norby Bottrill",
+      "sme_name": "Hogan Clemendet",
+      "support_cost": "93"
+    },
+    {
       "id": "hyperlocal2",
       "name": "Hyperlocal 2",
       "version": "7.6",
