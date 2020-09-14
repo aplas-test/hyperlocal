@@ -758,7 +758,7 @@
           "name": "INT-900",
           "version": "7.24",
           "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",
-          "payload": "Allocation Distribution",
+          "payload": "Allocation Distribution 2",
           "targetApplicationId": "next_innovation",
           "categoryId": "ftp",
           "status": "Standard",
