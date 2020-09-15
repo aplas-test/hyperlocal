@@ -34,7 +34,7 @@
           "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
           "payload": "Plan (Open to Buy)",
           "targetApplicationId": "veribet",
-          "categoryId": "webmethods",
+          "categoryId": "ftp",
           "status": "Standard",
           "status_color": "#00FF00",
           "department": "Integration",
