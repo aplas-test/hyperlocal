@@ -1,8 +1,8 @@
 {
   "applications": [
     {
-      "id": "hyperlocal2",
-      "name": "Hyperlocal 2",
+      "id": "hyperlocal3",
+      "name": "Hyperlocal 3",
       "version": "7.6",
       "vendor": "ServiceNow",
       "description": "Team-oriented systemic customer loyalty",
@@ -28,8 +28,8 @@
       "support_cost": "93",
       "integrations": [
         {
-          "id": "int-999",
-          "name": "INT-999",
+          "id": "int-1001",
+          "name": "INT-1001",
           "version": "2.29",
           "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
           "payload": "Plan (Open to Buy)",
